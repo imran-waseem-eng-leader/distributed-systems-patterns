@@ -9,7 +9,7 @@ In event-driven systems, retries are usually unavoidable because failures are un
 * temporary resource exhaustion
 * service restarts
 * deployment transitions
-* timeout conditions
+* timeout conditions.
 
 The goal is not eliminating retries.
 
