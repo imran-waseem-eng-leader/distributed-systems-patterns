@@ -91,3 +91,7 @@ rather than purely technical sophistication.
 ## Disclaimer
 
 Examples are intentionally simplified and generalized for architectural discussion and educational purposes.
+
+## Event Processing Architecture
+
+![Distributed Systems Architecture](distributed_systems_architecture.png)
